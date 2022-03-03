@@ -45,7 +45,7 @@ class Movies extends Component {
               </p>
 
               <p>
-                <span>Sumarry Shorts:</span>
+                <span>Summarry Shorts:</span>
                 {review.summary_short}
               </p>
             </div>
