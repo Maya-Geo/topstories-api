@@ -1,0 +1,26 @@
+body {
+  background-color: slategrey;
+}
+
+.my_img {
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  padding: 1rem;
+}
+
+.info {
+  text-align: center;
+}
+
+.go_to_link {
+  color: lightblue;
+  margin-left: 60rem;
+}
+
+.name {
+  color: lightblue;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande";
+}
